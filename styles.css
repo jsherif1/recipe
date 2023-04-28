@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat:ital,wght@0,400;0,700;1,400&display=swap');
+
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px;
+}
+
+h2{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
+
+nav a {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+nav span {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
+figcaption {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;
+}
+
